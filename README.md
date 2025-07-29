@@ -5,7 +5,7 @@
 Pied is a Python implementation of a stream editor, similar to the Unix `sed` command. It provides a powerful text processing tool that can perform various operations on text files including printing, deleting, substituting, inserting, appending, and changing lines based on line numbers or regular expressions.
 
 **Author:** Ziyi Shi  
-**Date:** 2025-04-25  
+**Date:** 2025-09
 
 ## Features
 
